@@ -1,4 +1,4 @@
-Worked on an end-to-end Excel Business Intelligence dashboard using an e-commerce sales dataset.
+Worked on an end-to-end Excel Business Intelligence dashboard using an Amazon sales dataset.
 
 Focused on cleaning raw data, building PivotTables, calculating key KPIs like total revenue, order count, average order value, and identifying top category and city contributions.
 
